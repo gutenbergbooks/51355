@@ -1,12 +1,12 @@
-﻿The Project Gutenberg eBook of The Iliads of Homer, by Homer
 
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
+The Project Gutenberg EBook of The Iliads of Homer, by Homer
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
 
 Title: The Iliads of Homer
 
@@ -14,16 +14,19 @@ Author: Homer
 
 Translator: George Chapman
 
-Release Date: March 4, 2016 [eBook #51355]
-[Most recently updated: March 8, 2021]
+Release Date: March 4, 2016 [EBook #51355]
+Last updated: November 10, 2019
 
 Language: English
 
 Character set encoding: UTF-8
 
-Produced by: Phil Schempf
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ILIADS OF HOMER ***
 
-*** START OF THE PROJECT GUTENBERG EBOOK THE ILIADS OF HOMER ***
+
+
+
+Produced by Phil Schempf
 
 cover
 
@@ -2071,7 +2074,7 @@ Those so inenarrable troops, and all their soils, I sing.
 
 THE CATALOGUE OF THE GRECIAN SHIPS AND CAPTAINS
 
-Peneleus, and Leitus, all that Bœotia bred,
+Peleüs, and Leitus, all that Bœotia bred,
 Arcesilaus, Clonius, and Prothoenor led;
 Th’ inhabitants of Hyria, and stony Aulida,
 Schæne, Scole, the hilly Eteon, and holy Thespia,
@@ -2398,7 +2401,7 @@ Who Sestus and Abydus bred, Hyrtacides did guide;
 Prince Asius Hyrtacides, that, through great Selees’ force,
 Brought from Arisba to that fight the great and fiery horse.
 Pylæus, and Hippothous, the stout Pelasgians led,
-Of them Larissa’s fruitful soil before had nourishéd;
+Of them Larissa’s fruitful soil before bad nourishéd;
 These were Pelasgian Pithus’ sons, son of Teutamidas.
 The Thracian guides were Pirous, and valiant Acamas,
 Of all that the impetuous flood of Hellespont enclos’d.
@@ -2604,7 +2607,7 @@ To white-arm’d Helen. She assum’d at ev’ry part the grace
 Of Helen’s last love’s sister’s shape, who had the highest place
 In Helen’s love, and had to name Laodice, most fair
 Of all the daughters Priam had, and made the nuptial pair
-With Helicaon, royal sprout of old Antenor’s seed.
+With Helicaon, royal sprout of ole Antenor’s seed.
 She found queen Helena at home, at work about a weed,
 Wov’n for herself; it shin’d like fire, was rich, and full of size,
 The work of both sides being alike; in which she did comprise
@@ -2626,10 +2629,9 @@ To set her thoughts at gaze, and see, in her clear beauty’s flood,
 What choice of glory swum to her yet tender womanhood)
 Season’d with tears her joys to see more joys the more offence,
 And that perfection could not flow from earthly excellence.
-
 Thus went she forth, and took with her her women most of name,
 Æthra, Pitthëus’ lovely birth, and Clymene, whom fame
-Hath for her fair eyes memoris’d. They reach’d the Scæan Tow’rs,
+Hath for her fair eyes memoris’d. They reach’d the Scæn Tow’rs,
 Where Priam sat, to see the fight, with all his counsellors;
 Panthous, Lampus, Clytius, and stout Hicetaon,
 Thymœtes, wise Antenor, and profound Ucalegon;
@@ -2648,7 +2650,7 @@ Looks like the Goddesses. And yet (though never so divine)
 Before we boast, unjustly still, of her enforcéd prise,
 And justly suffer for her sake, with all our progenies,
 Labour and ruin, let her go; the profit of our land
-Must pass the beauty.” Thus, though these could bear so fit a hand
+Must pass the beauty.” Thus, tough these could bear so fit a hand
 On their affections, yet, when all their gravest powers were us’d,
 They could not choose but welcome her, and rather they accus’d
 The Gods than beauty; for thus spake the most-fam’d king of Troy:
@@ -2661,8 +2663,7 @@ Sit then, and name this goodly Greek, so tall, and broadly spread,
 Who than the rest, that stand by him, is higher by the head;
 The bravest man I ever saw, and most majestical,
 His only presence makes me think him king amongst them all.”
-
-The fairest of her sex replied: “Most rev’rend father-in-law,
+The fairest of her sex replied: Most rev’rend father-in-law,
 Most lov’d, most fear’d, would some ill death had seiz’d me, when I saw
 The first mean why I wrong’d you thus: that I had never lost
 The sight of these my ancient friends, of him that lov’d me most,
@@ -2676,7 +2677,6 @@ A king, whom double royalty doth crown, being great and good,
 And one that was my brother-in-law, when I contain’d my blood,
 And was more worthy; if at all I might be said to be,
 My being being lost so soon in all that honour’d me.”
-
 The good old king admir’d, and said: “O Atreus’ blesséd son,
 Born unto joyful destinies, that hast the empire won
 Of such a world of Grecian youths, as I discover here!
@@ -2688,7 +2688,7 @@ Set down their tents with whom myself, for my assistant bands,
 Was number’d as a man in chief; the cause of war was then
 Th’ Amazon dames, that in their facts affected to be men.
 In all there was a mighty pow’r, which yet did never rise
-To equal these Achaian youths, that have the sable eyes.”
+To equal these Achaian youths, fat have the sable eyes.”
 Then (seeing Ulysses next) he said: “Lov’d daughter, what is he
 That, lower than great Atreus’ son; seems by the head to me,
 Yet, in his shoulders and big breast, presents a broader show?
@@ -2697,12 +2697,10 @@ To see his soldiers keep their ranks, and ready have their arms,
 If, in this truce, they should be tried by any false alarms.
 Much like a well-grown bell-wether, or feltred ram, he shows,
 That walks before a wealthy flock of fair white-fleeced ewes.”
-
 High Jove and Leda’s fairest seed to Priam thus replies:
 “This is the old Laertes’ son, Ulysses, call’d the wise;
 Who, though unfruitful Ithaca was made his nursing seat,
 Yet knows he ev’ry sort of sleight, and is in counsels great.”
-
 The wise Antenor answer’d her: “’Tis true, renownéd dame;
 For, some times past, wise Ithacus to Troy a legate came,
 With Menelaus, for your cause; to whom I gave receipt
@@ -2723,11 +2721,9 @@ And frantic (rashly judging him) you would have said he was,
 But when, out of his ample breast he gave his great voice pass,
 And words that flew about our ears, like drifts of winter’s snow,
 None thenceforth might contend with him, tho’ nought admir’d for show.”
-
 The third man, aged Priam mark’d, was Ajax Telamon,
 Of whom he ask’d: “What lord is that, so large of limb and bone,
 So rais’d in height, that to his breast I see there reacheth none?”
-
 To him the Goddess of her sex, the large-veil’d Helen, said:
 “That Lord is Ajax Telamon, a bulwark in their aid.
 On th’ other side stands Idomen, in Crete of most command,
@@ -2742,7 +2738,6 @@ For all stand-fights, and force of hand; both at a burthen bred;
 My natural brothers; either here they have not followéd
 From lovely Sparta, or, arriv’d within the sea-born fleet,
 In fear of infamy for me, in broad field shame to meet.”
-
 Nor so; for holy Tellus’ womb inclos’d those worthy men
 In Sparta, their belovéd soil. The voiceful heralds then
 The firm agreement of the Gods through all the city ring;
@@ -2755,10 +2750,10 @@ Send to thee to descend the field, that they firm vows may make;
 For Paris, and the Spartan king, must fight for Helen’s sake,
 With long-arm’d lances; and the man that proves victorious,
 The woman, and the wealth she brought, shall follow to his house;
-The rest knit friendship, and firm leagues; we safe in Troy shall dwell,
+The rest knit friendship, and firm leagues; we safe in Troy shall
+dwell,
 In Argos and Achaia they, that do in dames excel.”
-
-He said; and Priam’s aged joints with chilled fear did shake,
+He said; and Priam’s aged joints with chilléd fear did shake,
 Yet instantly he bade his men his chariot ready make.
 Which soon they did, and he ascends. He takes the reins, and guide
 Antenor calls; who instantly mounts to his royal side,
@@ -2776,9 +2771,8 @@ The wool from both fronts of the lambs, which (as a rite in use
 Of execration to their heads, that brake the plighted truce)
 The heralds of both hosts did give the peers of both; and then,
 With hands and voice advanc’d to heav’n, thus pray’d the king of men:
-
 “O Jove, that Ida dost protect, and hast the titles won
-Most glorious, most invincible; and thou all-seeing Sun,
+Most glorious, most invincible; aid thou all-seeing Sun,
 All-hearing, all-recomforting; Floods; Earth; and Pow’rs beneath,
 That all the perjuries of men chastise ev’n after death!
 Be witnesses, and see perform’d the hearty vows we make.—
@@ -2990,9 +2984,9 @@ THE ARGUMENT
 
 
 The Gods in council, at the last, decree
-That famous Ilion shall expugned be;
+That famous Ilion shall expugnéd be;
 And that their own continu’d faults may prove
-The reasons that have so incensed Jove,
+The reasons that have so incenséd Jove,
 Minerva seeks, with more offences done
 Against the lately injur’d Atreus’ son,
 (A ground that clearest would make seen their sin)
@@ -3269,7 +3263,7 @@ And that who, with the breach of truce, would hurt their enemies,
 With vultures should be torn themselves; that they should raze their
 town,
 Their wives, and children at their breast, led vassals to their own.
-But such as he beheld hang off from that increasing fight,
+But such as he beheld hang of from that increasing fight,
 Such would he bitterly rebuke, and with disgrace excite:
 “Base Argives, blush ye not to stand as made for butts to darts?
 Why are ye thus discomfited, like hinds that have no hearts,
@@ -3331,7 +3325,7 @@ Points ev’ry legion out his chief, and ev’ry chief he shows
 The forms and discipline of war, yet his commanders were
 All expert, and renownéd men. Great Pelagon was there,
 Alastor, manly Chromius, and Hæmon worth a throne,
-And Bias that could armies lead. With these he first put on
+Arid Bias that could armies lead. With these he first put on
 His horse troops with their chariots; his foot (of which he choos’d
 Many, the best and ablest men, and which he ever us’d
 As rampire to his gen’ral pow’r) he in the rear dispos’d.
@@ -3379,7 +3373,7 @@ Atrides seeing them stand so still, and spend their eyes at gaze,
 Began to chide: “And why,” said he, “dissolv’d thus in amaze,
 Thou son of Peteus, Jove-nurs’d king, and thou in wicked sleight
 A cunning soldier, stand ye off? Expect ye that the fight
-Should be by other men begun? ’Tis fit the foremost band
+Should be by other men begun? “Tis fit the foremost band
 Should show you there; you first should front who first lifts up his
 hand.
 First you can hear, when I invite the princes to a feast,
@@ -3777,7 +3771,7 @@ I have remov’d those erring mists that made it lately blind,
 That thou may’st diff’rence Gods from men, and therefore use thy skill
 Against the tempting Deities, if any have a will
 To try if thou presum’st of that, as thine, that flows from them,
-And so assum’st above thy right. Where thou discern’st a beam
+And so assum’st above thy right. “Where thou discern’st a beam
 Of any other Heav’nly Pow’r than She that rules in love,
 That calls thee to the change of blows, resist not, but remove;
 But if that Goddess be so bold (since she first stirr’d this war)
@@ -4173,7 +4167,8 @@ But chiefly Diomed, Ithacus, and both th’ Ajaces us’d
 Stirring examples and good words; their own fames had infus’d
 Spirit enough into their bloods, to make them neither fear
 The Trojans’ force, nor Fate itself, but still expecting were,
-When most was done, what would be more; their ground they still made good,
+When most was done, what would be more; their ground they still made
+good,
 And in their silence, and set pow’rs, like fair still clouds, they
 stood,
 With which Jove crowns the tops of hills, in any quiet day,
@@ -4182,9 +4177,10 @@ Air’s dusky vapours, being loose, in many a whistling gale)
 Are pleasingly bound up, and calm, and not a breath exhale;
 So firmly stood the Greeks, nor fled for all the Ilion’s aid.
 Atrides yet coasts through the troops, confirming men so staid:
-“O friends,” said he, “hold up your minds; strength is but strength of will;
+“O friends,” said he, “hold up your minds; strength is but strength of
+will;
 Rev’rence each other’s good in fight and shame at things done ill.
-Where soldiers show an honest shame, and love of honour lives,
+“There soldiers show an honest shame, and love of honour lives,
 That ranks men with the first in fight, death fewer liveries gives
 Than life, or than where Fame’s neglect makes cowards fight at length.
 Flight neither doth the body grace, nor shows the mind hath strength.”
@@ -4609,7 +4605,7 @@ Of old love ’twixt their fathers, which inclines
 Their hearts to friendship; who change arms for signs
 Of a continu’d love for either’s life.
 Hector, in his return, meets with his wife,
-And, taking in his armed arms his son,
+And, taking in his arméd arms his son,
 He prophesies the fall of Ilion.
 
 ANOTHER ARGUMENT
@@ -4870,8 +4866,7 @@ The mind of Glaucus, who, to show his rev’rence to the state
 Of virtue in his grandsire’s heart, and gratulate beside
 The offer of so great a friend, exchang’d in that good pride,
 Curets of gold for those of brass, that did on Diomed shine,
-One of a hundred oxen’s price, the other but of nine.
-
+One of a hundred oxen’s price, the other but of nine,
 By this, had Hector reach’d the ports of Scæa, and the tow’rs.
 About him flock’d the wives of Troy, the children, paramours,
 Inquiring how their husbands did, their fathers, brothers, loves.
@@ -5272,11 +5267,12 @@ In Eta, Priam’s strongest son
 Combats with Ajax Telamon.
 
 
-This said, brave Hector through the ports, with Troy’s bane-bringing knight,
+This said, brave Hector through the Troy’s bane-bringing knight;
 Made issue to th’ insatiate field, resolv’d to fervent fight.
 And as the Weather-wielder sends to seamen prosp’rous gales,
 When with their sallow polish’d oars, long lifted from their falls,
-Their wearied arms, dissolv’d with toil, can scarce strike one stroke more;
+Their wearied arms, dissolv’d with toil, can scarce strike one stroke
+more;
 Like those sweet winds appear’d these lords, to Trojans tir’d before.
 Then fell they to the works of death. By Paris’ valour fell
 King Arëithous’ hapless son, that did in Arna dwell,
@@ -5327,7 +5323,7 @@ Whose tumult settled, ’twixt them both, thus spake the challenger:
 “Hear, Trojans, and ye well-arm’d Greeks, what my strong mind, diffus’d
 Through all my spirits, commands me speak: Saturnius hath not us’d
 His promis’d favour for our truce, but, studying both our ills,
-Will never cease, till Mars, by you, his rav’nous stomach fills
+Will never cease, till Mars, by you, his rav’nous stomach fills.
 With ruin’d Troy, or we consume your mighty sea-borne fleet.
 Since then the gen’ral peers of Greece in reach of one voice meet,
 Amongst you all, whose breast includes the most impulsive mind,
@@ -5916,7 +5912,8 @@ So many and such wealthy gifts? Let them the victors be.
 If we, that are the aids of Greece, would beat home these of Troy,
 And hinder broad-ey’d Jove’s proud will, it would abate his joy.”
 He, angry, told her she was rash, and he would not be one
-Of all the rest, should strive with Jove, whose pow’r was match’d by none.
+Of all the rest, should: strive with Jove, whose pow’r was match’d by
+none.
 Whiles they conferr’d thus, all the space the trench contain’d before
 (From that part of the fort that flank’d the navy-anchoring shore)
 Was filled with horse and targeteers, who there for refuge came,
@@ -5935,7 +5932,8 @@ Th’ insulting Trojans: “O what shame, ye empty-hearted lords,
 Is this to your admiréd forms! Where are your glorious words,
 In Lemnos vaunting you the best of all the Grecian host?
 ‘We are the strongest men,’ ye said, ‘we will command the most,
-Eating most flesh of high-horn’d beeves, and drinking cups full crown’d,
+Eating most flesh of high-horn’d beeves, and drinking cups full
+crown’d,
 And ev’ry man a hundred foes, two hundred, will confound;
 Now all our strength, dar’d to our worst; one Hector cannot tame,’
 Who presently with horrid fire, will all our fleet inflame.
@@ -5948,7 +5946,8 @@ Have burnt fat thighs of beeves to thee, and pray’d to raze th’ abodes
 Of rape-defending Ilions. Yet grant, almighty Jove,
 One favour;—that we may at least with life from hence remove,
 Not under such inglorious hands, the hands of death employ;
-And, where Troy should be stoop’d by Greece, let Greece fall under Troy.”
+And, where Troy should be stoop’d by Greece, let Greece fall under
+Troy.”
 To this ev’n weeping king did Jove remorseful audience give,
 And shook great heav’n to him, for sign his men and he should live.
 Then quickly cast he off his hawk, the eagle prince of air,
@@ -5958,7 +5957,7 @@ And by Jove’s altar let it fall, amongst th’ amazéd peers,
 Where the religious Achive kings, with sacrifice did please
 The author of all oracles, divine Saturnides.
 Now, when they knew the bird of Jove, they turn’d courageous head.
-When none, though many kings put on, could make his vaunt, he led
+When none, though many kings put on; could make his vaunt, he led
 Tydides to renew’d assault, or issu’d first the dike,
 Or first did fight; but, far the first, stone dead his lance did strike
 Arm’d Agelaus, by descent surnam’d Phradmonides;
@@ -6202,7 +6201,7 @@ With charge of lamentable war, ’gainst soldiers bred in Troy.
 Then let our heralds through the town their offices employ
 To warn the youth, yet short of war, and time-white fathers, past,
 That in our god-built tow’rs they see strong courts of guard be plac’d,
-About the walls; and let our dames, yet flourishing in years,
+About the walls; and let out dames, yet flourishing in years,
 That, having beauties to keep pure, are most inclin’d to fears
 (Since darkness in distressful times more dreadful is than light)
 Make lofty fires in ev’ry house; and thus, the dang’rous night,
@@ -6436,8 +6435,9 @@ All this I gladly will perform, to pacify his hate.
 Let him be mild and tractable; ’tis for the God of ghosts
 To be unrul’d, implacable, and seek the blood of hosts,
 Whom therefore men do much abhor; then let him yield to me,
-I am his greater, being a king, and more in years than he.”
-“Brave king,” said Nestor, “these rich gifts must make him needs relent,
+I am his greater, being a king, and more in years than he
+“Brave king,” said Nestor, “these rich gifts must make him needs
+relent,
 Choose then fit legates instantly to greet him at his tent,
 But stay; admit my choice of them, and let them straight be gone.
 Jove-lovéd Phœnix shall be chief, then Ajax Telamon,
@@ -6969,7 +6969,7 @@ Th’ Atrides, watching, wake the other peers,
 And (in the fort, consulting of their fears)
 Two kings they send, most stout, and honour’d most,
 For royal scouts, into the Trojan host;
-Who meeting Dolon, Hector’s bribed spy,
+Who meeting Dolon, Hector’s bribéd spy,
 Take him, and learn how all the quarters lie.
 He told them, in the Thracian regiment
 Of rich king Rhesus, and his royal tent,
@@ -7059,7 +7059,7 @@ Speak, come not silent towards me; say, what intend’st thou here?”
 He answer’d: “O Neleides, grave honour of our host,
 ’Tis Agamemnon thou mayst know, whom Jove afflicteth most
 Of all the wretched men that live, and will, whilst any breath
-Gives motion to my toiled limbs, and bears me up from death.
+Gives motion to my toiléd limbs, and pears me up from death.
 I walk the round thus, since sweet sleep cannot inclose mine eyes,
 Nor shut those organs care breaks ope for our calamities.
 My fear is vehement for the Greeks; my heart, the fount of heat,
@@ -7249,11 +7249,12 @@ My bold endeavours, to thy name an heifer most select,
 That never yet was tam’d with yoke, broad-fronted, one year old,
 I’ll burn in zealous sacrifice, and set the horns in gold.”
 The Goddess heard; and both the kings their dreadless passage bore
-Through slaughter, slaughter’d carcasses, arms, and discolour’d gore.
+Through slaughter, slaughter’d carcassed, arms, and discolour’d gore,
 Nor Hector let his princes sleep, but all to council call’d,
 And ask’d, “What one is here will vow, and keep it unappall’d,
 To have a gift fit for his deed, a chariot and two horse,
-That pass for speed the rest of Greece? What one dares take this course,
+That pass for speed the rest of Greece? What one dares take this
+course,
 For his renown, besides his gifts, to mix amongst the foe,
 And learn if still they hold their guards, or with this overthrow
 Determine flight, as being too weak to hold us longer war?”
@@ -7367,10 +7368,10 @@ But for immortal shoulders fram’d. Come then, and quickly bear
 Your happy pris’ner to your fleet; or leave him here fast bound,
 Till your well-urg’d and rich return prove my relation sound.”
 Tydides dreadfully replied: “Think not of passage thus,
-Though of right acceptable news thou hast advértised us,
-Our hands are holds more strict than so; and should we set thee free
+Though of right acceptable news thou hast advértis’d us,
+Our hands are holds more strict than so; and should we set the free
 For offer’d ransom, for this ’scape thou still wouldst scouting be
-About our ships, or do us scathe in plain opposed arms,
+About our ships, or do us scathe in plain opposéd arms,
 But, if I take thy life, no way can we repent thy harms.”
 With this, as Dolon reach’d his hand to use a suppliant’s part,
 And stroke the beard of Diomed, he strook his neck athwart
@@ -7423,7 +7424,7 @@ In this contention with himself, Minerva did suggest
 And bade him think of his retreat; lest from their tempted rest
 Some other God should stir the foe, and send him back dismay’d.
 He knew the voice, took horse, and fled. The Trojan’s heav’nly aid,
-Apollo with the silver bow, stood no blind sentinel
+Apollo with the silver how, stood no blind sentinel
 To their secure and drowsy host, but did discover well
 Minerva following Diomed; and, angry with his act,
 The mighty host of Ilion he enter’d, and awak’d
@@ -8344,7 +8345,8 @@ Nor could the broad dike of the Greeks, or that strong wall they made
 To guard their fleet, be long unras’d; because it was not rais’d
 By grave direction of the Gods, nor were their Deities prais’d
 (When they begun) with hecatombs, that then they might be sure
-(Their strength being season’d well with heav’n’s) it should have force t’ endure,
+(Their strength being season’d well with heav’n’s) it should have force
+t’ endure,
 And so, the safeguard of their fleet, and all their treasure there,
 Infallibly had been confirm’d; when, now, their bulwarks were
 Not only without pow’r of check to their assaulting foe
@@ -8354,7 +8356,7 @@ And thought that ever they were made. As long as the despite
 Of great Æacides held up, and Hector went not down,
 And that by those two means stood safe king Priam’s sacred town,
 So long their rampire had some use, though now it gave some way;
-But when Troy’s best men suffer’d fate, and many Greeks did pay
+But when Troy’s best men suffer’d fate, and many Greeks did pay;
 Dear for their suff’rance, then the rest home to their country turn’d,
 The tenth year of their wars at Troy, and Troy was sack’d and burn’d.
 And then the Gods fell to their fort; then they their pow’rs employ
@@ -8374,17 +8376,19 @@ The huge wall swimming to the sea. Nine days their lights did spend
 To nights in tempests; and when all their utmost depth had made,
 Jove, Phœbus, Neptune, all came down, and all in state did wade
 To ruin of that impious fort. Great Neptune went before,
-Wrought with his trident, and the stones, trunks, roots of trees, he tore
+Wrought with his trident, and the stones, trunks, roots of trees, he
+tore
 Out of the rampire, toss’d them all into the Hellespont,
 Ev’n all the proud toil of the Greeks, with which they durst confront
 The to-be shunnéd Deities, and not a stone remain’d
 Of all their huge foundations, all with the earth were plain’d.
 Which done, again the Gods turn’d back the silver-flowing floods
-By that vast channel, through whose vaults they pour’d abroad their broods,
+By that vast channel, through whose vaults they pour’d abroad their
+broods,
 And cover’d all the ample shore again with dusty sand.
 And this the end was of that wall, where now so many a hand
-Was emptied of stones and darts, contending to invade;
-Where Clamour spent so high a throat; and where the fell blows made
+Was emptiéd of stones and darts, contending to invade;
+Where Clamour spent so high a throat; and where he fell blows made
 The new-built wooden turrets groan. And here the Greeks were pent,
 Tam’d with the iron whip of Jove, that terrors vehement
 Shook over them by Hector’s hand, who was in ev’ry thought
@@ -8547,10 +8551,11 @@ And lifeless tumbled him to earth. Nor could all these lives quench
 His fi’ry spirit, that his flame in Menon’s blood did drench,
 And rag’d up ev’n to Iamen’s, and young Orestes’ life;
 All heap’d together made their peace in that red field of strife.
-Whose fair arms while the victors spoil’d, the youth of Ilion
+Whose-fair arms while the victors spoil’d, the youth of Ilion
 (Of which there serv’d the most and best) still boldly built upon
 The wisdom of Polydamas, and Hector’s matchless strength,
-And follow’d, fill’d with wondrous spirit, with wish and hope at length,
+And follow’d, fill’d with wondrous spirit, with wish and hope at
+length,
 The Greeks’ wall won, to fire their fleet. But, having pass’d the dike,
 And willing now to pass the wall, this prodigy did strike
 Their hearts with some delib’rate stay: A high-flown eagle soar’d
@@ -8586,7 +8591,7 @@ Shall with the eagle fly, before we carry to our nest
 Them, or their navy.” Thus expounds the augur this ostent,
 Whose depth he knows, and these should fear. Hector, with count’nance
 bent,
-Thus answer’d him: “Polydamas, your depth in augury
+Thus answer’d him: “Polydamus, your depth in augury
 I like not, and know passing well thou dost not satisfy
 Thyself in this opinion; or if thou think’st it true,
 Thy thoughts the Gods blind, to advise, and urge that as our due,
@@ -10065,7 +10070,8 @@ As she was keeping Enops’ flocks on Satnius’ river’s shore,
 And strook him in his belly’s rim, who upwards fell, and rais’d
 A mighty skirmish with his fall. And then Panthœdés seiz’d
 Prothenor Areilycides, with his revengeful spear,
-On his right shoulder, strook it through, and laid him breathless there;
+On his right shoulder, strook it through, and laid him breath less
+there;
 For which he insolently bragg’d, and cried out: “Not a dart
 From great-soul’d Panthus’ son, I think, shall ever vainlier part,
 But some Greek’s bosom it shall take, and make him give his ghost.”
@@ -10577,10 +10583,10 @@ On Ajax, who to Teucer call’d (his brother) saying: “Friend
 Our lovéd consort, whom we brought from Cythera, and grac’d
 So like our father, Hector’s hand hath made him breathe his last.
 Where then are all thy death-borne shafts, and that unvalu’d bow
-Apollo gave thee?” Teucer straight his brother’s thoughts did know,
+Apollo gave thee?” Tencer straight his brother’s thoughts did know,
 Stood near him, and dispatch’d a shaft, amongst the Trojan fight.
 It strook Pisenor’s goodly son, young Clitus, the delight
-Of the renown’d Polydamas, the bridle in his hand,
+Of the renown’d Polydamus, the bridle in his hand,
 As he was labouring his horse, to please the high command
 Of Hector and his Trojan friends, and bring him where the fight
 Made greatest tumult; but his strife, for honour in their sight,
@@ -11596,7 +11602,7 @@ For twenty men, though ’twere a storm, to leap out of a sail,
 And gather oysters for them all, he does it here as well,
 And there are many such in Troy.” Thus jested he so near
 His own grave death; and then made in, to spoil the charioteer,
-With such a lion’s force and fate, as, often ruining
+“With such a lion’s force and fate, as, often ruining
 Stalls of fat oxen, gets at length a mortal wound to sting
 His soul out of that rav’nous breast, that was so insolent,
 And so his life’s bliss proves his bane; so deadly confident
@@ -12677,7 +12683,7 @@ And then the Greeks and Trojans both gave up their horse and darts.
 The Trojans all to council call’d, ere they refresh’d their hearts
 With any supper, nor would sit; they grew so stiff with fear
 To see, so long from heavy fight, Æacides appear.
-Polydamas began to speak, who only could discern
+Polydamus began to speak, who only could discern
 Things future by things past, and was vow’d friend to Hector, born
 In one night both. He thus advis’d: “Consider well, my friends,
 In this so great and sudden change, that now itself extends,
@@ -12716,7 +12722,7 @@ And he be glad to turn to fleet, about his funerals.
 For of his entry here at home, what mind will serve his thirst,
 Or ever feed him with sack’d Troy? The dogs shall eat him first.”
 At this speech Hector bent his brows, and said: “This makes not great
-Your grace with me, Polydamas, that argue for retreat
+Your grace with me, Polydamus, that argue for retreat
 To Troy’s old prison. Have we not enough of those tow’rs yet?
 And is not Troy yet charg’d enough, with impositions set
 Upon her citizens, to keep our men from spoil without,
@@ -12920,7 +12926,7 @@ With torches usher’d through the streets, a world of paramours
 Excited by them; youths and maids in lovely circles danc’d,
 To whom the merry pipe and harp their spritely sounds advanc’d,
 The matrons standing in their doors admiring. Other where
-A solemn court of law was kept, where throngs of people were.
+A solemn court of law was kept, where throngs or people were.
 The case in question was a fine, impos’d on one that slew
 The friend of him that follow’d it, and for the fine did sue;
 Which th’ other pleaded he had paid. The adverse part denied,
@@ -14273,7 +14279,7 @@ All the denied dust, which he wish’d, and now was fain to cry,
 Casting his eyes to that broad heav’n, that late he long’d to try,
 And said: “O Jove, how am I left! No God vouchsafes to free
 Me, miserable man. Help now, and after torture me
-With any outrage. Would to heaven, Hector, the mightiest
+With any outrage. “Would to heaven, Hector, the mightiest
 Bred in this region, had imbru’d his jav’lin in my breast,
 That strong may fall by strong! Where now weak water’s luxury
 Must make my death blush, one, heav’n-born, shall like a hog-herd die,
@@ -14988,7 +14994,7 @@ Mean for our ruth to him. Alas, you have no cause of cares,
 Compar’d with me! I many sons, grac’d with their freshest years,
 Have lost by him, and all their deaths in slaughter of this one
 (Afflicted man) are doubled. This will bitterly set gone
-My soul to hell. O would to heaven I could but hold him dead
+My soul to hell. O would to heav’n, could but hold him dead
 In these pin’d arms, then tears on tears might fall, till all were shed
 In common fortune! Now amaze their natural course doth stop,
 And pricks a mad vein.” Thus he mourn’d, and with him all break ope
@@ -16131,8 +16137,7 @@ Resolv’d ev’n in Achilles’ tent. He shall not touch the state
 Of his high person, nor admit the deadliest desperate
 Of all about him; for, though fierce, he is not yet unwise,
 Nor inconsid’rate, nor a man past awe of Deities,
-But passing free and curious to do a suppliant grace.”
-
+But passing free and curious to do a suppliant grace,
 This said, the Rainbow to her feet tied whirlwinds, and the place
 Reach’d instantly. The heavy court Clamour and Mourning fill’d;
 The sons all set about the sire; and there stood Grief, and still’d
@@ -16763,33 +16768,35 @@ est) norimus bene qui Deus, aut mortalis, habendus. Amen._”
 
 
 
-*** END OF THE PROJECT GUTENBERG EBOOK THE ILIADS OF HOMER ***
+End of the Project Gutenberg EBook of The Iliads of Homer, by Homer
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE ILIADS OF HOMER ***
 
 ***** This file should be named 51355-0.txt or 51355-0.zip *****
 This and all associated files of various formats will be found in:
-    https://www.gutenberg.org/5/1/3/5/51355/
+        http://www.gutenberg.org/5/1/3/5/51355/
+
+Produced by Phil Schempf
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
 law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
 Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
 concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
 
 START: FULL LICENSE
 
@@ -16853,7 +16860,7 @@ agreement before downloading, copying, displaying, performing,
 distributing or creating derivative works based on this work or any
 other Project Gutenberg-tm work. The Foundation makes no
 representations concerning the copyright status of any work in any
-country other than the United States.
+country outside the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
@@ -16869,8 +16876,8 @@ performed, viewed, copied or distributed:
   restrictions whatsoever. You may copy it, give it away or re-use it
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
 
 1.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
@@ -16906,7 +16913,7 @@ compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg-tm work in a format
 other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm website
+version posted on the official Project Gutenberg-tm web site
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
 of obtaining a copy upon request, of the work in its original "Plain
@@ -16919,7 +16926,7 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works
-provided that:
+provided that
 
 * You pay a royalty fee of 20% of the gross profits you derive from
   the use of Project Gutenberg-tm works calculated using the method
@@ -16953,9 +16960,9 @@ provided that:
 1.E.9. If you wish to charge a fee or distribute a Project
 Gutenberg-tm electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg-tm trademark. Contact the Foundation as set
-forth in Section 3 below.
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
 
 1.F.
 
@@ -17042,10 +17049,11 @@ Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
 www.gutenberg.org
 
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
 
-The Project Gutenberg Literary Archive Foundation is a non-profit
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation's EIN or federal tax identification
@@ -17053,18 +17061,27 @@ number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
 U.S. federal laws and your state's laws.
 
-The Foundation's business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
-and official page at www.gutenberg.org/contact
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
+freely distributed in machine readable form accessible by the widest
 array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
@@ -17087,12 +17104,12 @@ International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
 outside the United States. U.S. laws alone swamp our small staff.
 
-Please check the Project Gutenberg web pages for current donation
+Please check the Project Gutenberg Web pages for current donation
 methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
 
-Section 5. General Information About Project Gutenberg-tm electronic works
+Section 5. General Information About Project Gutenberg-tm electronic works.
 
 Professor Michael S. Hart was the originator of the Project
 Gutenberg-tm concept of a library of electronic works that could be
@@ -17106,10 +17123,10 @@ the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
 edition.
 
-Most people start at our website which has the main PG search
+Most people start at our Web site which has the main PG search
 facility: www.gutenberg.org
 
-This website includes information about Project Gutenberg-tm,
+This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
